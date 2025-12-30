@@ -1,54 +1,43 @@
 <header>
 
 <!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+  <<< Author note: This is the code for my GitHub page. You can look, but don't you touch!
 -->
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+# Technical-Writing-Portfolio
 
 </header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## About Me
 
-## Step 1: Enable GitHub Pages
+Hello and welcome to my Technical Writing Portfolio! My name is Amy, and I am passionate about making complex topics easy to understand. With a background in Content Marketing and Copywriting, I specialize in creating concise, and informative technical content.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+## Overview
+This repository serves as a collection of my technical writing samples. Here, you'll find a range of documents, from user guides and product manuals to technical articles showcasing my ability to break down complex information into reader-friendly content.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+## My Approach
+Technology has a story of progress and problem-solving. I write to make these stories clear and relatable. As the tech world is ever-evolving, my approach revolves around evolution —constantly learning, adapting, and refining to best serve my clients.
 
-### :keyboard: Activity: Enable GitHub Pages
+## Portfolio Contents
+- **Articles:** In-depth pieces focused on explaining technical topics.
+- **User Guides:** Step-by-step guides aimed at helping end-users accomplish specific tasks.
+- **Technical Summaries:** Brief documents outlining the specifications and features of various products.
+- **Case Studies:** Detailed analyses of real-world applications of specific technologies or methods.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+## Skills Demonstrated
+- Technical Research
+- User-focused Writing
+- Markdown language
+- Version control systems
+- Code Snippets and Examples
+- End-User Documentation
+- Document Design and Layout
+
+## Contact Me
+If you're interested in my work and would like to get in touch, you can reach me at:
+- Email: [dillonjfoley@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/foleydillon/]
 
 <footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
