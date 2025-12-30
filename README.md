@@ -35,8 +35,8 @@ Technology has a story of progress and problem-solving. I write to make these st
 
 ## Contact Me
 If you're interested in my work and would like to get in touch, you can reach me at:
-- Email: [dillonjfoley@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/foleydillon/]
+- Email: dillonjfoley@gmail.com
+- LinkedIn: https://www.linkedin.com/in/foleydillon/
 
 <footer>
 
